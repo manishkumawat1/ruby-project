@@ -1,0 +1,40 @@
+body{
+    margin-top: 200px;
+    margin-left: 400px;
+}
+div{
+    border-radius: 10px;
+    background-color:rgba(19, 62, 217, 0.562);
+   border: 2px solid rgb(20, 20, 20);
+   height: 300px; width: 400px; 
+   margin: 1px;
+   font-size: 6px;
+
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+img{
+    margin-right: 60px;
+    height: 60px;
+    width: 60px;
+}
+
+.card-section{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.qr-img{
+    margin-left:200px ;
+}
+.panc{
+    text-align: center;
+}
+.num{
+    text-align: center;  
+
+}

@@ -1,0 +1,35 @@
+*{
+    margin-bottom: 10px;
+    border-radius: 10px;
+   
+}
+body{
+    background: rgb(249, 211, 249);
+}
+.container{
+    /* background: rgb(248, 190, 248); */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+.box{
+    
+    background: #e1f9ae;
+    display: block;
+    height: 500px;
+    width: 300px;
+    padding: 10px;
+    padding-left: 40px;
+    border: 2px solid rgb(2, 2, 2);
+    border-radius: 50px;
+}
+.submit{
+    height: 30px;
+    width: 60px;
+    margin: 5px 0px;
+    background-color: skyblue;
+    border-radius: 5px;
+    margin-left: 70px;
+}
